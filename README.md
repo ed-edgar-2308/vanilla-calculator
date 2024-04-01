@@ -20,7 +20,7 @@ Vanilla Calculator. 📚
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Vanilla Calculator](https://ralph2308s.github.io/vanilla-calculator/)
+- [Vanilla Calculator](https://ed-edgar-2308.github.io/vanilla-calculator/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -33,7 +33,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 ```
-git clone git@github.com:ralph2308s/vanilla-calculator.git
+git clone git@github.com:ed-edgar-2308/vanilla-calculator.git
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -42,11 +42,11 @@ git clone git@github.com:ralph2308s/vanilla-calculator.git
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Ralph**
+👤 **Edgar**
 
-- GitHub: [ralph2308s](https://github.com/ralph2308s)
-- Twitter: [ralph2308s](https://twitter.com/ralph2308s)
-- LinkedIn: [ralph2308s](https://www.linkedin.com/in/ralph2308s/)
+- GitHub: [Edgar](https://github.com/ralph2308s)
+- Twitter: [Edgar](https://twitter.com/)
+- LinkedIn: [Edgar](https://www.linkedin.com/in/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
